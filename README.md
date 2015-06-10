@@ -1,4 +1,4 @@
-# A simple Brainfuck interpreter
+# bf-interpreter
 
 A simple Brainfuck interpreter written in C.
 
